@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Passwor-Generator-App-pr-7-/static/css/main.dc790c38.css",
+    "main.js": "/Passwor-Generator-App-pr-7-/static/js/main.c170ab26.js",
+    "index.html": "/Passwor-Generator-App-pr-7-/index.html",
+    "main.dc790c38.css.map": "/Passwor-Generator-App-pr-7-/static/css/main.dc790c38.css.map",
+    "main.c170ab26.js.map": "/Passwor-Generator-App-pr-7-/static/js/main.c170ab26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc790c38.css",
+    "static/js/main.c170ab26.js"
+  ]
+}
