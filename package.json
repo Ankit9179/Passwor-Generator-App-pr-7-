@@ -2,7 +2,7 @@
   "name": "random-password",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Ankit9179.github.io/Passwor-Generator-App-pr-7-",
+  "homepage": "http://Ankit9179.github.io/Password-Generator-App-pr-7-",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
